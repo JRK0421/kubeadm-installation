@@ -128,7 +128,7 @@ Use following curl command to access nginx based application,
 ####
     curl http://<woker-node-ip-addres>:31246
 
-Conclusion
+# Conclusion
 After following the steps mentioned in this article carefully, you should now have Kubernetes installed on Ubuntu. Kubernetes allows you to launch and manage Docker containers across multiple servers in the pod.
 
 #### In this article, we have explained the installation of the Kubernetes container management system on Ubuntu 22.04. Kubernetes has a lot of functionality and features to offer. The Kubernetes Official Documentation is the best place to learn.

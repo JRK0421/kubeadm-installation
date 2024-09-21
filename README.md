@@ -128,11 +128,9 @@ Use following curl command to access nginx based application,
 ####
     curl http://<woker-node-ip-addres>:31246
 
-<b>Quick Tip:</b> For beginners who still have no experience of deploying multiple containers, Minikube is a great way to start.
 # Conclusion
 After following the steps mentioned in this article carefully, you should now have Kubernetes installed on Ubuntu. Kubernetes allows you to launch and manage Docker containers across multiple servers in the pod.
 
-#### In this article, we have explained the installation of the Kubernetes container management system on Ubuntu 20.04. Kubernetes has a lot of functionality and features to offer. The Kubernetes Official Documentation is the best place to learn.
+#### In this article, we have explained the installation of the Kubernetes container management system on Ubuntu 22.04. Kubernetes has a lot of functionality and features to offer. The Kubernetes Official Documentation is the best place to learn.
 
-If you have any questions about installing and configuring Kubernetes on Ubuntu, please contact us in the comments.
 
